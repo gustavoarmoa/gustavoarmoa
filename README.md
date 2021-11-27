@@ -1,13 +1,13 @@
 ### Olá, aqui é o Gustavo Armoa 👋
 <img src="https://raw.githubusercontent.com/gustavoarmoa/gustavoarmoa/main/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p>🔭 Atualmente estou trabalhando como desenvolvendor front-end</p>
-<p>🌱 Estou estudando a fundo Javascript e Reactjs para ter um nível avançado de skill</p>
+<p>🔭 Atualmente estou trabalhando como desenvolvendor front-end.</p>
+<p>🌱 Estou aperfeiçoando minha skill em Javascript e Reactjs para ter um nível avançado.</p>
 <p>🤔 Busco trabalhar em uma empresa que possa me desafiar a aprender mais</p>
 
 <p align="left"> 
-  Sou responsável técnico na Bequest Capital por aplicações web e uma intranet de conteúdos <strong>na área de serviços financeiros</strong>.<br>
-  Com as novas tendências estou estudando para melhorar minhas skill, além de trabalhar para o mercado financeiro estou estudando Data Science.
+  Sou responsável técnico na Bequest Capital e uma Educação de Ensino Superior por aplicações webs e uma intranet de conteúdos <strong><br />na área de serviços financeiros</strong>.<br>
+  Com as novas tendências de microserviços estou estudando os curso de Full Cycle da Code Education para melhorar minhas skills, além de trabalhar para o mercado financeiro estou estudando Data Science.
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Se fizer sentido meu perfil pode entrar em contato: ⤵️
+  💌 Se fizer sentido meu perfil pode entrar em contato, escutar ofertas sempre é bom: ⤵️
 </p>
 
 <p align="left">
