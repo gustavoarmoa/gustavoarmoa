@@ -1,13 +1,13 @@
 ### Olá, aqui é o Gustavo Armoa 👋
 <img src="https://raw.githubusercontent.com/gustavoarmoa/gustavoarmoa/main/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-🔭 Atualmente estou trabalhando como desenvolvendor front-end
-🌱 Estou estudando a fundo Javascript e Reactjs para ter um nível avançado de skill
-🤔 Busco trabalhar em uma empresa que possa me desafiar a aprender mais
+<p>🔭 Atualmente estou trabalhando como desenvolvendor front-end</p>
+<p>🌱 Estou estudando a fundo Javascript e Reactjs para ter um nível avançado de skill</p>
+<p>🤔 Busco trabalhar em uma empresa que possa me desafiar a aprender mais</p>
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou responsável técnico na Bequest Capital por aplicações web e uma intranet de conteúdos <strong>na área de serviços financeiros</strong>.<br>
+  Com as novas tendências estou estudando para melhorar minhas skill, além de trabalhar para o mercado financeiro estou estudando Data Science.
 </p>
 
 <p align="left">
@@ -19,17 +19,12 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se fizer sentido meu perfil pode entrar em contato: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" alt="Email">
-  <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-
 </p>
 
 <!--
