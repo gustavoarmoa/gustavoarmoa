@@ -1,8 +1,8 @@
 ### Olá, aqui é o Gustavo Armoa 👋
 <img src="https://raw.githubusercontent.com/gustavoarmoa/gustavoarmoa/main/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p>🔭 Atualmente estou trabalhando como desenvolvendor front-end.</p>
-<p>🌱 Estou aperfeiçoando minha skill em Javascript e Reactjs para ter um nível avançado.</p>
+<p>🔭 Atualmente estou trabalhando como CTO na Bequest e sou desenvolvendor front-end.</p>
+<p>🌱 Estou aperfeiçoando minha skill em Javascript e Reactjs para ter um nível avançado no curso do Willian Justem.</p>
 <p>🤔 Busco trabalhar em uma empresa que possa me desafiar a aprender mais</p>
 
 <p align="left"> 
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-armoa/" /></a>
 </p>
 
 <!--
