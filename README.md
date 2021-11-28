@@ -6,7 +6,7 @@
 <p>🤔 Ofertas que possa desafiar sempre são Bem-vindas!!!</p>
 
 <p align="left"> 
-  Sou responsável técnico === CTO || e desenvolvendor front-end na <strong>Bequest Capital Agente Autônomo de Investimentos (AAI)</strong> e uma Educação de Ensino Superior para aplicações webs e uma intranet de conteúdos <strong><br />na área de serviços financeiros</strong>.<br />
+  Sou responsável técnico === CTO || e desenvolvendor front-end na <strong>Bequest Capital Agente Autônomo de Investimentos (AAI)</strong> e uma Instituição de Ensino Superior para aplicações webs e uma intranet de conteúdos <strong>na área de serviços financeiros</strong>.<br />
   Com as novas tendências de microserviços estou estudando o curso de <a href="https://fullcycle.com.br/" alt="Full Cycle"><strong>Full Cycle</strong> da Code Education</a> para melhorar minhas skills, além de trabalhar para o mercado financeiro estou estudando Data Science.
 </p>
 
