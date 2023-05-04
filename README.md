@@ -7,7 +7,7 @@
 
 <p align="left"> 
   Sou responsável técnico === CTO && desenvolvendor front-end na <strong>Norbaas Open Tecnologias Ltda.</strong> <strong>na área de serviços financeiros</strong>, além de ser consultor técnico em uma Instituição de Ensino Superior para aplicações webs com uma intranet de conteúdos .<br />
-  Com as novas tendências de microserviços estou estudando o curso de <a href="https://fullcycle.com.br/" alt="Full Cycle"><strong>Full Cycle</strong> da Code Education</a> para melhorar minhas skills, além de trabalhar para o mercado financeiro estou estudando Data Science.
+   
 </p>
 
 <p align="left">
