@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html5, css3, Javascript, Python e aprendendo Rust.</strong>
+  🦄 Linguagens: <strong>Javascript, Python e aprendendo Rust.</strong>
 </p>
 
 <p align="left">
