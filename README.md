@@ -6,7 +6,7 @@
 <p>🤔 Ofertas que possa desafiar sempre são Bem-vindas!!!</p>
 
 <p align="left"> 
-  Sou responsável técnico === CTO && desenvolvendor front-end na <strong>Norbaas Open Tecnologias Ltda.</strong> <strong>na área de serviços financeiros</strong>, além de ser consultor técnico em uma Instituição de Ensino Superior para aplicações webs com uma intranet de conteúdos .<br />
+  Sou responsável técnico === CTO && desenvolvendor front-end na <strong>Norbaas Open Tecnologias Ltda.</strong> <strong>na área de serviços financeiros</strong>, além de ser consultor para soluções de front-end para fintech, trabalho voluntário para publicações sobre conteúdos sobre desenvolvimento web.<br />
    
 </p>
 
