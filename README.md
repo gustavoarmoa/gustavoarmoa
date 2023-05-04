@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/gustavoarmoa/gustavoarmoa/main/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p>🔭 Busco desafios no mercado de Fintech e mercado de Assets Digitais</p>
-<p>🌱 Estou aperfeiçoando minha skill em Javascript e Reactjs para ter um nível avançado no curso do <a href="https://reactavancado.com.br/" alt="Willian Justen">Willian Justen - <strong>React Avançando</strong></a>.</p>
+<p>🌱 Estou aperfeiçoando minha skill em Javascript e Reactjs para ter um nível avançado .</p>
 <p>🤔 Ofertas que possa desafiar sempre são Bem-vindas!!!</p>
 
 <p align="left"> 
