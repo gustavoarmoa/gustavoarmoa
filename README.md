@@ -1,25 +1,25 @@
-### Olá, aqui é o Gustavo Armoa 👋
+### Hello, this is Gustavo Armoa 👋
 <img src="https://raw.githubusercontent.com/gustavoarmoa/gustavoarmoa/main/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p>🔭 Busco desafios no mercado de Fintech e mercado de Assets Digitais</p>
-<p>🌱 Aperfeiçoando  skills em Javascript e Nodejs para a era do Real Digital.</p>
-<p>🤔 Ofertas que possa desafiar sempre são Bem-vindas!!!</p>
+<p>🔭 Creating solutions in the Fintech and Digital Assets markets</p>
+<p>🌱 Improving skills for the Digital Real era (DREX).</p>
+<p>🤔 Offers that you can challenge are always welcome!!!</p>
 
 <p align="left"> 
-  Sou responsável técnico === CTO && desenvolvendor front-end na <strong>Norbaas Open Tecnologias Ltda.</strong> <strong>na área de serviços financeiros</strong>, além de ser consultor para soluções de front-end para fintech, trabalho voluntário para publicações sobre conteúdos sobre desenvolvimento web.<br />
+  I am a technical manager === CTO && front-end developer at <strong>Norbaas Open Tecnologias Ltda.</strong> <strong>in the financial services area</strong>, in addition to being a consultant for front-end solutions for fintech, volunteer work for publications on web development content.<br />
    
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Python, Golang e aprendendo Rust.</strong>
+  🦄 Languages: <strong>Javascript, Python, Golang and learning Rust.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Reactjs, Nextjs, Apollo, Jest, Cypress, GraphQL, TypeScript e Nodejs.</strong>
+  💼 Tools: <strong>Reactjs, Nextjs, Apollo, Jest, Cypress, GraphQL, TypeScript and Nodejs.</strong>
 </p>
 
 <p align="left">
-  💌 Se fizer sentido meu perfil pode entrar em contato, escutar ofertas sempre é bom: ⤵️
+  💌 If my profile makes sense, you can get in touch. Listening to offers is always good: ⤵️
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <!--
-**gustavoarmoa/gustavoarmoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gustavoarmoa/gustavoarmoa** 
 
 Here are some ideas to get you started:
 
